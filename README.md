@@ -1,33 +1,33 @@
 # laravel-info
 
-Установка редактор кода VSCode
-https://code.visualstudio.com/
+Установка редактор кода VSCode <br>
+https://code.visualstudio.com/ <br>
 
-Установка Node.js (пакет npm)
-https://nodejs.org/en/
+Установка Node.js (пакет npm) <br>
+https://nodejs.org/en/ <br>
 
-Установка Composer
-https://getcomposer.org/
+Установка Composer <br>
+https://getcomposer.org/ <br>
 
-Установка Laravel
-composer create-project laravel/laravel example-app
+Установка Laravel <br>
+composer create-project laravel/laravel example-app <br>
 
-Установка интерфейса Laravel
-composer require laravel/ui
+Установка интерфейса Laravel <br>
+composer require laravel/ui <br>
 
-Установка интерфейса авторизации
-Bootstrap: php artisan ui bootstrap --auth
-Vue.js: php artisan ui vue --auth
+Установка интерфейса авторизации <br>
+Bootstrap: php artisan ui bootstrap --auth <br>
+Vue.js: php artisan ui vue --auth <br>
 
-Установка Bootstap
-npm install bootstap
+Установка Bootstap <br>
+npm install bootstap <br>
 
-Установка Vue.js
-npm install vue
+Установка Vue.js <br>
+npm install vue <br>
 
-Установка инициализированные пакеты
-npm install && npm run dev
+Установка инициализированные пакеты <br>
+npm install && npm run dev <br>
 
-Установка пакета разделение ролей и прав Spatie Laravel Permission
-composer require spatie/laravel-permission
-Другие подробностей: https://spatie.be/docs/laravel-permission/v3/installation-laravel
+Установка пакета разделение ролей и прав Spatie Laravel Permission <br>
+composer require spatie/laravel-permission <br>
+Другие подробностей: https://spatie.be/docs/laravel-permission/v3/installation-laravel <br>
