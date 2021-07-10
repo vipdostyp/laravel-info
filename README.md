@@ -1,4 +1,4 @@
-# laravel-info
+# Laravel Info Starter
 
 _Установка редактор кода VSCode_ <br>
 https://code.visualstudio.com/ <br>
@@ -22,7 +22,7 @@ Vue.js: php artisan ui vue --auth <br>
 _Установка Bootstap_ <br>
 npm install bootstap <br>
 
-_Установка Vue.js _<br>
+_Установка Vue.js_ <br>
 npm install vue <br>
 
 _Установка инициализированные пакеты_ <br>
